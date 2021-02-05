@@ -1,0 +1,1 @@
+create table random_datas (id varchar(1000), name varchar(50), lastname varchar(50), mail varchar(80), gender varchar(10));
